@@ -7,4 +7,4 @@ Use the snake.py program if you want to play the game !
 
 ## BE CAREFUL : POTENTIAL RISK OF EPILEPSY
 
-The console might flicker as the program clears the last output each time, so be careful using this game
+The console might flicker as the program clears the last output each time, so be careful playing this game.
